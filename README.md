@@ -1,7 +1,8 @@
 <h1>Email template1 created by Sabo</h1>
 Responsive email layout with pretty cool modules and design, feel free to edit and use.
 <br>
-Basic HTML5 knowledge needed.
+<br>
+Live App: https://email1-html-template.vercel.app/
 <br>
 <br>
 
